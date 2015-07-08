@@ -1,2 +1,2 @@
 # CompBioBase
-CompBioBase is a computational biology course and collection of tutorials, examples and code snippets
+Computational biology course and cookbook with examples and code snippets
