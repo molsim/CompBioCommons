@@ -6,7 +6,7 @@ CompBioBase is a learning and reference resource in the field of computational b
 -------------
 Live-Examples is a collection of reusable examples/tutorials for solving common problems in computational biophysics and bioinformatics. They are intended to serve both educational (like worked examples) and reference purposes (download-modify-reuse).
 
-[Lectures](Lectures/README.md)
+[Lectures](Lectures/)
 ------------
 A collections of lectures, cheet-sheet and reference materials on various applied topics in computational biophysics and bioinformatics as well as more general relevant theoretical and IT topics.
 
