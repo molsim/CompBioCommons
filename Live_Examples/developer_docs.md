@@ -10,7 +10,7 @@ Every example should contain following components:
 
 The files should be written using strick Markdown syntax (not GFM?) in order to be understandable by pandoc.
 
-````python
+````
 
 import numpy as np
 import matplotlib.pyplot as plt
