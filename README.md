@@ -1,6 +1,6 @@
 CompBioBase
 =============
-CompBioBase is a learning and reference resource in the field of computational biology. It combines easily reusable "live examples" of solving various tasks in bioinformatics and comutational biophysics, lecture notes and useful toolkit scripts that help to automate common tasks. Lectures and live examples are grouped into several courses.
+CompBioBase is a learning and reference resource in the field of computational biology. It combines easily reusable "live examples" for solving various tasks in bioinformatics and comutational biophysics, lecture notes and useful toolkit scripts that help to automate common tasks. Lectures and live examples are further grouped into various courses aimed at training new computational biologists.
 
 [Live-Examples](Live_Examples/)
 -------------
