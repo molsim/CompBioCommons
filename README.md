@@ -1,4 +1,4 @@
-CompBioBase
+CompBioBase - http://molsim.github.io/CompBioBase/
 =============
 CompBioBase is a learning and reference resource in the field of computational biology. It combines easily reusable "live examples" for solving various tasks in bioinformatics and comutational biophysics, lecture notes and useful toolkit scripts that help to automate common tasks. Lectures and live examples are further grouped into various courses aimed at training new computational biologists.
 
