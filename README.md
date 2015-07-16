@@ -15,7 +15,8 @@ Lectures
 
 Toolkit
 -------
-
+Toolkit is a collection of small scripts and libraries, that help to automate common tasks in computational biology or facilitate interface with external programs. These are often used in "live examples".
 
 Courses
 ------
+Courses are formed by grouping the "live examples" and lecture into a specific curriculum.
