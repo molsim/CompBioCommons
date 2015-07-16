@@ -2,7 +2,7 @@ CompBioBase - Live-Examples
 ===========
 Live-examples (LE) development guidelines
 -----
-Folder [TEMPLATE](TEMPLATE/) contains an example template, use it to start the development of a new live-example, or reformat an existing example.
+Folder [TEMPLATE](TEMPLATE/) contains a template, use it to start the development of a new live-example, or reformat an existing example.
 
 ###Naming and version control
 Every LE release which has substantial changes should be assigned a version number which sould appera in the header of README.md. A history of changes should be provided in HISTORY.md file together with hashes of commits that correspond to the current and previous versions.
