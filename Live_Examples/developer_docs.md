@@ -1,10 +1,21 @@
 CompBioBase - Live-Examples
 ===========
-New live-examples development guidelines
+Live-examples (LE) development guidelines
 -----
-Folder [TEMPLATE](TEMPLATE/) contains an example template, use it to start the development of a new live-example.
-Every example should contain following components:
--
+Folder [TEMPLATE](TEMPLATE/) contains an example template, use it to start the development of a new live-example, or reformat an existing example.
+LE is tagged as READY when it adheres to the guidelines decribed below,
+noncomplying LEs or LEs under development are tagged as RAW and are listed in a special section of the [main list](../README.md).
+Every LE release which has substantial changes should be tagged with a version number and history of changes should be provided in HISTORY.md together with hashes of commits that correspond to the current and previous versions.
+Folder name should be concise but suggestive of the example nature and start whith a several letters code from [this list](code_tags_list.md) depending on the LE topic.
+If LE is forked to adjust it to slightly different conditions (eg. software or hardware version) the new folder name should be derived by appending a corresonding descriptor (eg. MD_nucleosome_NAMD_v1.9_wCUDA). For such forked LE the information about their parent (sister) LE should be provided in README.md and the corresponding versions have to be specified.
+
+###Tags
+LE are organized with the help of tags (keywords) from the dictionary listed in [code_tags_list.md](code_tags_list.md)
+
+###Live-example components and directory structure
+####README.md
+The README.md file is the main file describing the live-example, theoretical background, goals, prerequisitives (including software), contents of the live-example, step-by-step instructions and anticipated outcomes.
+Normally, it should have following sections:
 
 
 
