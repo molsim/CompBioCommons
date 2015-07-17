@@ -20,7 +20,8 @@ If LE adheres to the strict guidelines described below its status is READY, othe
 The README.md file is the main file describing the live-example, theoretical background, goals, prerequisitives (including software), contents of the live-example, step-by-step instructions and anticipated outcomes.
 The files should be written using Markdown or GitHub Markdown syntax understandable by [pandoc](http://pandoc.org).
 Top line of the file should be human readable title marked as H1 header.
-Normally, it should have following sections:
+
+The file should have following sections:
 #####Metainfo
 ````
 Name: folder_name
@@ -31,6 +32,28 @@ Parent LE name: name of parent LE if this LE was forked
 Parent LE version: version of the parent LE
 Tags: comma separated list of tags from [tags_list.md](../tags_list.md)
 ````
+#####Short description
+A short description of the LE in several sentences. What does the LE does?
 
+#####File structure
+Describe what inidividual files and folders do in LE. If too much information make a link to a separte file file_structure.md
+
+#####Prerequisitives
+List LE or lectures which have to be completed before. Access to computing facilities.
+
+#####Software requirements
+List the software requirements with versions and links to the web sites or installation guidelines.
+
+#####Learning goals
+
+#####Introduction (optional)
+
+#####Running instructions
+
+#####Expected results
+List here expected results, files, list reference result files.
+
+#####References
+At this stage references are manually contructed unless we find a better alternative.
 
 
