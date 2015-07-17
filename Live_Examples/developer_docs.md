@@ -33,9 +33,11 @@ Parent LE version: version of the parent LE
 Tags: comma separated list of tags from [tags_list.md](../tags_list.md)
 ````
 * Short description
+
 A short description of the LE in several sentences. What does the LE does?
 
-#####File structure
+* File structure
+* 
 Describe what inidividual files and folders do in LE. If too much information make a link to a separte file file_structure.md
 
 #####Prerequisitives
