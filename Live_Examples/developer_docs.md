@@ -55,5 +55,20 @@ List here expected results, files, list reference result files.
 
 #####References
 At this stage references are manually contructed unless we find a better alternative.
+####Folder structure
+The folder structure follows the CLICO mnemonic
+#####code
+all the code file and script relevant to this LE.
+Ideally names should start with the numbers and underscore according to run sequence
+#####libs
+library files or scripts that are not specific to this tutorial.
+These ideally come from the Toolkit folder.
+#####input
+#####common
+#####output
+#####sample-output
 
+
+###General considerations
+Images files should be of low size or hosted externally.
 
