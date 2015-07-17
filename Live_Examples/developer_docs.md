@@ -2,7 +2,7 @@ CompBioBase - Live-Examples
 ===========
 Live-examples (LE) development guidelines
 -----
-Folder [TEMPLATE](TEMPLATE/) contains a template, use it to start the development of a new live-example, or reformat an existing example.
+Folder [TP_TEMPLATE](TP_TEMPLATE/) contains a template, use it to start the development of a new live-example, or reformat an existing example.
 
 ###Naming and version control
 Every LE release which has substantial changes should be assigned a version number which sould appera in the header of README.md. A history of changes should be provided in HISTORY.md file together with hashes of commits that correspond to the current and previous versions.
@@ -32,7 +32,7 @@ Parent LE name: name of parent LE if this LE was forked
 Parent LE version: version of the parent LE
 Tags: comma separated list of tags from [tags_list.md](../tags_list.md)
 ````
-######Short description
+######Description
 A short description of the LE in several sentences. What does the LE does?
 
 ######File structure
