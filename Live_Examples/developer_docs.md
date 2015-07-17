@@ -47,7 +47,10 @@ List the software requirements with versions and links to the web sites or insta
 ######Learning goals
 
 ######Introduction (optional)
-
+Give theoretical background and introduction here with needed references.
+######Software installation (optional)
+If special software should be installed, provide instructions here.
+This can link to the SOFT folder README.md if local folder needs to be populated with executables or symlinks to them.
 ######Running instructions
 
 ######Expected results
@@ -56,7 +59,7 @@ List here expected results, files, list reference result files.
 ######References
 At this stage references are manually contructed unless we find a better alternative.
 ####Folder structure
-The folder structure follows the CLICO mnemonic
+The folder structure follows the CLICOS mnemonic
 ######code
 all the code file and script relevant to this LE.
 Ideally names should start with the numbers and underscore according to run sequence
@@ -69,8 +72,11 @@ All the data files needed as input to this particular LE.
 Common parameter files, such as force filed files go here.
 ######OUTPUT
 This is an empty directory that will be populated during execution.
-Caps letters highlight that it is the only directory being changed.
+Caps letters highlight that it is the main directory being changed.
 The output directory is suggested to be further populated by subdirectories prefixed by numbers, corresponding to the scripts that reside in code.
+######SOFT
+The soft folder is intended to host small executable program that should be downloaded and installed from external sources. See the Software Requiremetns section. This directory should have the README.md file that directs the user how to populate this directory.
+
 ######sample-output
 Examples of some output files, for reference.
 
