@@ -62,11 +62,17 @@ all the code file and script relevant to this LE.
 Ideally names should start with the numbers and underscore according to run sequence
 #####libs
 library files or scripts that are not specific to this tutorial.
-These ideally come from the Toolkit folder.
+These ideally come from the Toolkit folder as symlinks.
 #####input
+All the data files needed as input to this particular LE.
 #####common
-#####output
+Common parameter files, such as force filed files go here.
+#####OUTPUT
+This is an empty directory that will be populated during execution.
+Caps letters highlight that it is the only directory being changed.
+The output directory is suggested to be further populated by subdirectories prefixed by numbers, corresponding to the scripts that reside in code.
 #####sample-output
+Examples of some output files, for reference.
 
 
 ###General considerations
