@@ -22,7 +22,7 @@ The files should be written using Markdown or GitHub Markdown syntax understanda
 Top line of the file should be human readable title marked as H1 header.
 
 The file should have following sections:
-#####Metainfo
+*#####Metainfo
 ````
 Name: folder_name
 Status: READY/RAW
@@ -32,7 +32,7 @@ Parent LE name: name of parent LE if this LE was forked
 Parent LE version: version of the parent LE
 Tags: comma separated list of tags from [tags_list.md](../tags_list.md)
 ````
-#####Short description
+*#####Short description
 A short description of the LE in several sentences. What does the LE does?
 
 #####File structure
