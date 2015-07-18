@@ -22,8 +22,8 @@ For details see [file_structure.md](file_structure.md)
 
 ##Prerequisitives
 * Understanding of Molecular Dynamics theory.
-* Linux and command line.
-* Familiarity with HPC environment and job secheduling software.
+* Linux, command line and basic scripting skills.
+* Familiarity with HPC environment and job secheduling.
 
 ##Software requirements
 On workstation:
