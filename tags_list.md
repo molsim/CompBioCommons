@@ -1,13 +1,6 @@
-CompBioBase - Live-Examples
-===========
-Initial codes for folders name by topic
------------
-* MD - Molecular Dynamics Simulations
-* MC - Monte Carlo Simulation
-* DOCK - Molecular Docking
-
-
-Tags
-----
-* MD - Molecular Dyanmics
+* MD - Molecular Dyanmics Simulations
+* comp_biophys - Computational Biophysics
+* DNA - DNA
+* NAMD - NAMD software for MD simulations
+* nucleosome - nucleosome
 

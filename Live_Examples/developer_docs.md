@@ -59,7 +59,7 @@ List here expected results, files, list reference result files.
 ######References
 At this stage references are manually contructed unless we find a better alternative.
 ####Folder structure
-The folder structure follows the CLICOS mnemonic
+The folder structure follows the CLIO-S^2 mnemonic
 ######code
 All the code file and script relevant to this LE.
 Ideally names should start with the numbers and underscore according to run. sequence
@@ -68,12 +68,11 @@ library files or scripts that are not specific to this tutorial.
 These ideally come from the Toolkit folder as symlinks.
 ######input
 All the data files needed as input to this particular LE.
-######shared
-Common parameter files, such as force filed files go here.
 ######output
 This is an empty directory that will be populated during execution.
-
 The output directory is suggested to be further populated by subdirectories prefixed by numbers, corresponding to the scripts that reside in code.
+######shared
+Common parameter files, such as force filed files go here.
 ######SOFT
 The soft folder is intended to host small executable program that should be downloaded and installed from external sources. See the Software Requiremetns section. This directory should have the README.md file that directs the user how to populate this directory. Caps letters highlight that it is just a stub with instructions.
 
