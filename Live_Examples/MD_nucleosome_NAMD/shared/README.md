@@ -1,0 +1,2 @@
+This directory contains common files, such as force fields or substitution matrices that can be shared among multiple programs and tasks.
+Don't forget to add comments to every new shared data piece including it version, download date, etc.

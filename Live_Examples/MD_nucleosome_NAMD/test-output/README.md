@@ -1,0 +1,1 @@
+Selected contents of output directory are saved here for reference, comparisson and testing of the LE correct execution.

@@ -25,8 +25,8 @@ The file should have following sections:
 ######Metainfo
 ````
 Name: folder_name
-Status: READY/RAW
 Version: 
+Status: READY/RAW
 Assosiated LE: comma separated list of other LE names
 Parent LE name: name of parent LE if this LE was forked
 Parent LE version: version of the parent LE
