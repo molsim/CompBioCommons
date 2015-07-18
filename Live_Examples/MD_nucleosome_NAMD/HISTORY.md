@@ -1,4 +1,4 @@
-#HISTORY of LE releases for TP_TEMPLATE
+#HISTORY of LE releases for MD_nucleosome_NAMD
 ##Version 2.0
 DATE: 17-July-2015
 COMMIT: a7807bbc4d6baf7ce1f159bbbc7c2a94fea1503e
