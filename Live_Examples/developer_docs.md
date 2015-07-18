@@ -6,7 +6,7 @@ Folder [TP_TEMPLATE](TP_TEMPLATE/) contains a template, use it to start the deve
 
 ###Naming and version control
 Every LE release which has substantial changes should be assigned a version number which sould appera in the header of README.md. A history of changes should be provided in HISTORY.md file together with hashes of commits that correspond to the current and previous versions.
-Folder name should be concise but suggestive of the example nature and start whith a letter code from [this list](../folder_codes.md) depending on the LE topic.
+Folder name should be concise but suggestive of the example nature and start whith a letter code from [this list](folder_codes.md) depending on the LE topic.
 If LE is forked to adjust it to slightly different conditions (eg. software or hardware version) the new folder name should be derived by appending a corresonding descriptor (eg. MD_nucleosome_NAMD_v1.9_wCUDA). For such forked LE the information about their parent (sister) LE should be provided in the header of README.md and the corresponding versions have to be specified.
 
 ###Tags
