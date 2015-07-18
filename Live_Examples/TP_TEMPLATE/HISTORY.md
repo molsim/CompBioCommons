@@ -1,7 +1,7 @@
 #HISTORY of LE releases
 ##Version 2.0
 DATE: 17-July-2015
-COMMIT: f2523ba1c8083895346f0d8b16cce2fccb3ea207
+COMMIT: a7807bbc4d6baf7ce1f159bbbc7c2a94fea1503e
 ###CHANGES
 Major update
 
