@@ -24,13 +24,13 @@ Top line of the file should be human readable title marked as H1 header.
 The file should have following sections:
 ######Metainfo
 ````
-Name: folder_name
-Version: 
-Status: READY/RAW
-Assosiated LE: comma separated list of other LE names
-Parent LE name: name of parent LE if this LE was forked
-Parent LE version: version of the parent LE
-Tags: comma separated list of tags from [tags_list.md](../tags_list.md)
+* Name: folder_name
+* Version: 
+* Status: READY/RAW
+* Assosiated LE: comma separated list of other LE names
+* Parent LE name: name of parent LE if this LE was forked
+* Parent LE version: version of the parent LE
+* Tags: comma separated list of tags from [tags_list.md](../tags_list.md)
 ````
 ######Description
 A short description of the LE in several sentences. What does the LE does?
