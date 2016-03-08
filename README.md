@@ -1,4 +1,4 @@
-CompBioCommons - concept development
+CompBioCommons - in concept development stage
 =============
 ### http://molsim.github.io/CompBioBase/
 CompBioBase is an online repository of reusable code examples for computational biology combined with tutorials and various learning materials.
